@@ -1,2 +1,8 @@
-P 2018/03/27 11:00:00 GULD $75
+commodity GULD
+   note name registration credits for the guld group, tracked as guld:Liabilities
+   format 1,000.00000000 GULD
+   nomarket
+   default
+
+P 2018/03/27 11:00:00 GULD $75.00
 P 2018/03/27 11:00:00 $ 0.01333333 GULD
