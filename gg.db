@@ -1,0 +1,9 @@
+commodity GG  
+   note Guld Game token, for playing games
+   format 1,000.00000000 GG  
+   nomarket
+   default
+
+P 2018/04/06 17:00:00 GULD 7100 GG
+P 2018/04/06 17:00:00 GG 0.00014085 GULD
+
